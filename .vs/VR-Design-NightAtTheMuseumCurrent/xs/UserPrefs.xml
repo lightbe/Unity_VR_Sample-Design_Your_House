@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{43B4C45C-60B9-B549-BC38-3AE3B8418526}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MuseumScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MuseumScript.cs" Line="87" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VR-Design-NightAtTheMuseumCurrent PreferredExecutionTarget="Unity.Editor" />
+</Properties>

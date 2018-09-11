@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E1977122-3090-9B1F-3E8A-0DB1013DA513}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoothScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoothScript.cs" Line="72" Column="55" />
+      <File FileName="Assets/Scripts/DoorScript.cs" Line="17" Column="55" />
+      <File FileName="Assets/Scripts/MediaPlayButtons.cs" Line="30" Column="58" />
+      <File FileName="Assets/Scripts/ExitApp.cs" Line="9" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VR-VRinHEALTHibraini PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

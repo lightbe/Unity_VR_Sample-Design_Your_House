@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E6EC0AAA-AD71-C307-7B25-0A4F06692178}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShakeCameraItween.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveTheCamera.cs" Line="207" Column="72" />
+      <File FileName="Assets/Scripts/ShakeCameraItween.cs" Line="36" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VR_220DesignYourHouse PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

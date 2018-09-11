@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{25E9E39C-2363-F8DB-FBEE-410055B08B9E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DoorScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MediaPlayButtons.cs" Line="37" Column="59" />
+      <File FileName="Assets/Scripts/BoothScript.cs" Line="39" Column="52" />
+      <File FileName="Assets/Scripts/DoorScript.cs" Line="25" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VR-Design-NightAtTheMuseum PreferredExecutionTarget="Unity.Editor" />
+</Properties>

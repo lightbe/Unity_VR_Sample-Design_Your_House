@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{28CEE3B2-A89C-A1AB-FBE4-FB3044AF4869}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DoorScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DoorScript.cs" Line="45" Column="37" />
+      <File FileName="Assets/Scripts/BoothScript.cs" Line="72" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ibrainiVRShowcase PreferredExecutionTarget="Unity.Editor" />
+</Properties>
